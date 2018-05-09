@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="heading">Fill in your week\'s routine</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="tabledata">display Table data</string>
+    <string name="week">Weekday : </string>
+    <string name="habit">Habit :</string>
+</resources>
